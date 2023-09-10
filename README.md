@@ -15,8 +15,7 @@ Você pode utilizar este conjunto de dados no Power BI para realizar análises e
 ---
 Aqui temos o exemplo de análise descritiva que foi realizado durante os testes da ferramenta Power BI.
 
-[DashBoardCriado](https://web.dio.me/project/recriando-o-jogo-da-cobrinha-com-javascript/learning/bfcd37b9-4ccf-40fb-b0ea-c2d865414a19?back=/track/html-web-developer&tab=undefined&moduleId=undefined)
-
+<https://github.com/FredOnBrasil/PowerBIAnaliseDescritiva/blob/main/Relatorio%20power%20bi%20diabetes.png>
 
 ## Contribuição
 ---
